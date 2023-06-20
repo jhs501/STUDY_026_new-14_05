@@ -4,4 +4,4 @@ import { runEx03 } from './ex03.js';
 import { runEx04 } from './ex04.js';
 import { runEx05 } from './ex05.js';
 
-runEx01();
+runEx03();
